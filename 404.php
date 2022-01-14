@@ -1,5 +1,5 @@
 <?php
-// header
+$title = "404";
 require __DIR__ . '/partials/header.php';
 ?>
 

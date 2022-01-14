@@ -1,4 +1,5 @@
 <?php
+$title = 'Contact';
 require __DIR__ . '/partials/header.php';
 ?>
 <div>

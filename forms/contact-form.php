@@ -1,5 +1,5 @@
 <?php
-
+$title = 'Message sent';
 require __DIR__ . '/../partials/header.php';
 require __DIR__ . '/../helpers/forms-utils.php';
 if (isset($_POST['submit'])) {

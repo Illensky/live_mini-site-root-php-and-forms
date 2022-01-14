@@ -1,4 +1,5 @@
 <?php
+$title = 'Log In';
 require __DIR__ . '/partials/header.php';
 ?>
     <div id="login">

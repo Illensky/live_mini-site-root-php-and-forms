@@ -1,4 +1,5 @@
 <?php
+$title = "Home";
 require __DIR__ . '/partials/header.php';
 ?>
 <div>

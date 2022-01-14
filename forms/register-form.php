@@ -1,5 +1,5 @@
 <?php
-
+$title = "Registration";
 require __DIR__ . '/../partials/header.php';
 require __DIR__ . '/../helpers/forms-utils.php';
 
