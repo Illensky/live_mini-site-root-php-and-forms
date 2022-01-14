@@ -3,7 +3,7 @@ require __DIR__ . '/partials/header.php';
 ?>
 <div>
     <h1>Formulaire de contact</h1>
-    <form action="/forms/contact-form.php" method="post">
+    <form action="/?p=/forms/contact-form" method="post">
         <div>
             <label for="id-username">Nom d'utilisateur</label>
             <input type="text" name="username" id="id-username">

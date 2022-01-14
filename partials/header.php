@@ -11,8 +11,8 @@
 <body>
 <nav>
     <ul>
-        <li><a href="/index.php">Home</a></li>
-        <li><a href="/contact.php">Contact</a></li>
-        <li><a href="/login.php">Connexion/Inscription</a></li>
+        <li><a href="/?p=home">Home</a></li>
+        <li><a href="/?p=contact">Contact</a></li>
+        <li><a href="/?p=login">Connexion/Inscription</a></li>
     </ul>
 </nav>

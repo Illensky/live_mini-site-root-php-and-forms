@@ -18,7 +18,7 @@ if (isset($_POST['submit'])) {
     </tr>
 </table>
     <div>
-        <a href="/contact.php" class="a-button">
+        <a href="/?p=contact" class="a-button">
             Vers le formulaire de contact
         </a>
     </div>

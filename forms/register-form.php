@@ -25,7 +25,7 @@ if (isset($_POST['submit'])) {
         </tr>
     </table>
     <div>
-        <a href="/login.php" class="a-button">
+        <a href="/?p=login" class="a-button">
             Vers le formulaire d'inscription
         </a>
     </div>

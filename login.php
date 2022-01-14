@@ -3,7 +3,7 @@ require __DIR__ . '/partials/header.php';
 ?>
     <div id="login">
         <h1>Connexion</h1>
-        <form action="/forms/login-form.php" method="post">
+        <form action="/?p=/forms/login-form" method="post">
             <div>
                 <label for="id-username">Nom d'utilisateur</label>
                 <input type="text" name="username" id="id-username">
@@ -19,7 +19,7 @@ require __DIR__ . '/partials/header.php';
     </div>
     <div id="register">
         <h1>Inscription</h1>
-        <form action="/forms/register-form.php" method="post">
+        <form action="/?p=/forms/register-form" method="post">
             <div>
                 <label for="id-username">Nom d'utilisateur</label>
                 <input type="text" name="username" id="id-username">
