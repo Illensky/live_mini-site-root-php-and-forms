@@ -42,7 +42,7 @@ require __DIR__ . '/partials/header.php';
         </form>
 </div>
 
-<div>
+<div id="toRegisterDiv">
     Pas de compte? <span id="toRegister">Créez en un gratuitement</span>
 </div>
 <?php
